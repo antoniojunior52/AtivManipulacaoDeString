@@ -1,0 +1,16 @@
+C:\projetos\ams\1ano\ManipulacaoDeString\TratamentoTexto\bin\Debug\net5.0\TratamentoTexto.exe
+C:\projetos\ams\1ano\ManipulacaoDeString\TratamentoTexto\bin\Debug\net5.0\TratamentoTexto.deps.json
+C:\projetos\ams\1ano\ManipulacaoDeString\TratamentoTexto\bin\Debug\net5.0\TratamentoTexto.runtimeconfig.json
+C:\projetos\ams\1ano\ManipulacaoDeString\TratamentoTexto\bin\Debug\net5.0\TratamentoTexto.runtimeconfig.dev.json
+C:\projetos\ams\1ano\ManipulacaoDeString\TratamentoTexto\bin\Debug\net5.0\TratamentoTexto.dll
+C:\projetos\ams\1ano\ManipulacaoDeString\TratamentoTexto\bin\Debug\net5.0\ref\TratamentoTexto.dll
+C:\projetos\ams\1ano\ManipulacaoDeString\TratamentoTexto\bin\Debug\net5.0\TratamentoTexto.pdb
+C:\projetos\ams\1ano\ManipulacaoDeString\TratamentoTexto\obj\Debug\net5.0\TratamentoTexto.csproj.AssemblyReference.cache
+C:\projetos\ams\1ano\ManipulacaoDeString\TratamentoTexto\obj\Debug\net5.0\TratamentoTexto.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\ams\1ano\ManipulacaoDeString\TratamentoTexto\obj\Debug\net5.0\TratamentoTexto.AssemblyInfoInputs.cache
+C:\projetos\ams\1ano\ManipulacaoDeString\TratamentoTexto\obj\Debug\net5.0\TratamentoTexto.AssemblyInfo.cs
+C:\projetos\ams\1ano\ManipulacaoDeString\TratamentoTexto\obj\Debug\net5.0\TratamentoTexto.csproj.CoreCompileInputs.cache
+C:\projetos\ams\1ano\ManipulacaoDeString\TratamentoTexto\obj\Debug\net5.0\TratamentoTexto.dll
+C:\projetos\ams\1ano\ManipulacaoDeString\TratamentoTexto\obj\Debug\net5.0\ref\TratamentoTexto.dll
+C:\projetos\ams\1ano\ManipulacaoDeString\TratamentoTexto\obj\Debug\net5.0\TratamentoTexto.pdb
+C:\projetos\ams\1ano\ManipulacaoDeString\TratamentoTexto\obj\Debug\net5.0\TratamentoTexto.genruntimeconfig.cache

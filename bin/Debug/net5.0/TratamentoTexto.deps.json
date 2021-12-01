@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TratamentoTexto/1.0.0": {
+        "runtime": {
+          "TratamentoTexto.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TratamentoTexto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
